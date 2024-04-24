@@ -1,0 +1,102 @@
+{
+  "Matemática": [
+    {
+      "nome": "João",
+      "idade": 25,
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 99999-9999"
+    },
+    {
+      "nome": "Maria",
+      "idade": 22,
+      "cpf": "987.654.321-00",
+      "telefone": "(12) 88888-8888"
+    },
+    {
+      "nome": "Pedro",
+      "idade": 30,
+      "cpf": "111.222.333-44",
+      "telefone": "(13) 77777-7777"
+    }
+  ],
+  "Português": [
+    {
+      "nome": "Renan",
+      "idade": 28,
+      "cpf": "555.666.777-88",
+      "telefone": "(14) 66666-6666"
+    },
+    {
+      "nome": "Victor",
+      "idade": 26,
+      "cpf": "999.888.777-66",
+      "telefone": "(15) 55555-5555"
+    },
+    {
+      "nome": "Gustavo",
+      "idade": 24,
+      "cpf": "222.333.444-55",
+      "telefone": "(16) 44444-4444"
+    }
+  ],
+  "História": [
+    {
+      "nome": "Ana",
+      "idade": 23,
+      "cpf": "777.888.999-00",
+      "telefone": "(23) 33333-3333"
+    },
+    {
+      "nome": "Carlos",
+      "idade": 27,
+      "cpf": "888.999.000-11",
+      "telefone": "(25) 22222-2222"
+    },
+    {
+      "nome": "Mariana",
+      "idade": 29,
+      "cpf": "444.555.666-77",
+      "telefone": "(51) 11111-1111"
+    }
+  ],
+  "Geografia": [
+    {
+      "nome": "José",
+      "idade": 31,
+      "cpf": "666.777.888-99",
+      "telefone": "(54) 00000-0000"
+    },
+    {
+      "nome": "Renata",
+      "idade": 32,
+      "cpf": "333.444.555-66",
+      "telefone": "(91) 99999-9999"
+    },
+    {
+      "nome": "Lucas",
+      "idade": 26,
+      "cpf": "888.777.666-55",
+      "telefone": "(65) 88888-8888"
+    }
+  ],
+  "Ciências": [
+    {
+      "nome": "Juliana",
+      "idade": 30,
+      "cpf": "111.222.333-44",
+      "telefone": "(11) 77777-7777"
+    },
+    {
+      "nome": "Rafael",
+      "idade": 28,
+      "cpf": "555.666.777-88",
+      "telefone": "(24) 66666-6666"
+    },
+    {
+      "nome": "Gabriel",
+      "idade": 25,
+      "cpf": "123.456.789-00",
+      "telefone": "(32) 55555-5555"
+    }
+  ]
+}
